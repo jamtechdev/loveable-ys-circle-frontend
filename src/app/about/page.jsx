@@ -50,7 +50,7 @@ export default function AboutPage() {
       desc: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia culpa pariatur unde repellendus sunt rerum debitis amet quisquam nobis atque!",
     },
   ];
-
+// change the about page
   return (
     <LandingLayout>
       <div className="relative breadcumb-area py-20 bg-gray-50">
